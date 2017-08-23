@@ -1,0 +1,9 @@
+c:\users\sange\documents\visual studio 2015\Projects\Comparing terms\Comparing terms\bin\Debug\Comparing terms.exe.config
+c:\users\sange\documents\visual studio 2015\Projects\Comparing terms\Comparing terms\obj\Debug\Comparing terms.csprojResolveAssemblyReference.cache
+c:\users\sange\documents\visual studio 2015\Projects\Comparing terms\Comparing terms\obj\Debug\Comparing_terms.Form1.resources
+c:\users\sange\documents\visual studio 2015\Projects\Comparing terms\Comparing terms\obj\Debug\Comparing_terms.Properties.Resources.resources
+c:\users\sange\documents\visual studio 2015\Projects\Comparing terms\Comparing terms\obj\Debug\Comparing terms.csproj.GenerateResource.Cache
+c:\users\sange\documents\visual studio 2015\Projects\Comparing terms\Comparing terms\bin\Debug\Comparing terms.exe
+c:\users\sange\documents\visual studio 2015\Projects\Comparing terms\Comparing terms\bin\Debug\Comparing terms.pdb
+c:\users\sange\documents\visual studio 2015\Projects\Comparing terms\Comparing terms\obj\Debug\Comparing terms.exe
+c:\users\sange\documents\visual studio 2015\Projects\Comparing terms\Comparing terms\obj\Debug\Comparing terms.pdb
